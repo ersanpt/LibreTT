@@ -5,7 +5,7 @@ const CUSTOMER_SITES = {
     },
         dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-        name: '电影天堂资源'
+        name: '电影天堂资源',
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
@@ -25,7 +25,7 @@ const CUSTOMER_SITES = {
     },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
-        name: '非凡影视'
+        name: '非凡影视',
     },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
@@ -49,7 +49,7 @@ const CUSTOMER_SITES = {
     },
     jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
-        name: '极速资源'
+        name: '极速资源',
     },
     dbzy: {
         api: 'https://dbzy.tv/api.php/provide/vod',
@@ -65,27 +65,27 @@ const CUSTOMER_SITES = {
     },
     zuid: {
         api: 'https://api.zuidapi.com/api.php/provide/vod',
-        name: '最大资源'
+        name: '最大资源',
     },
     yinghua: {
         api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
-        name: '樱花资源'
+        name: '樱花资源',
     },
     baidu: {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
-        name: '百度云资源'
+        name: '百度云资源',
     },
     wujin: {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
-        name: '无尽资源'
+        name: '无尽资源',
     },
     wwzy: {
         api: 'https://wwzy.tv/api.php/provide/vod',
-        name: '旺旺短剧'
+        name: '旺旺短剧',
     },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
-        name: 'iKun资源'
+        name: 'iKun资源',
     },
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
@@ -93,39 +93,35 @@ const CUSTOMER_SITES = {
     },
     lsbzy: {
         api: 'https://apilsbzy1.com/api.php/provide/vod',
-        name: '老色逼资源'
+        name: '老色逼资源',
     },
     fhzy: {
         api: 'http://fhapi9.com/api.php/provide/vod',
-        name: '番号资源'
+        name: '番号资源',
     },
     nxxzy: {
         api: 'https://naixxzy.com/api.php/provide/vod',
-        name: '奶香香资源'
+        name: '奶香香资源',
     },
     ddzy: {
         api: 'https://api.ddapi.cc/api.php/provide/vod',
-        name: '滴滴资源'
+        name: '滴滴资源',
     },
     ytzy: {
         api: 'https://apiyutu.com/api.php/provide/vod',
-        name: '玉兔资源'
+        name: '玉兔资源',
     },
     AIzy: {
         api: 'http://lbapiby.com/api.php/provide/vod/at/json',
-        name: 'AI资源'
+        name: 'AI资源',
     },
     115zy: {
         api: 'https://155api.com/api.php/provide/vod',
-        name: '155(直连)'
+        name: '155(直连)',
     },
     lbzy: {
         api: 'https://lbapi9.com/api.php/provide/vod',
-        name: '乐播(直连)'
-    },
-    ytzy: {
-        api: 'https://vnzyz.com/api.php/provide/vod/',
-        name: '越南(直连)'
+        name: '乐播(直连)',
     }
 };
 
