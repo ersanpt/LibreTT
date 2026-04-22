@@ -99,7 +99,30 @@ const CUSTOMER_SITES = {
         api: 'https://fhapi9.com/api.php/provide/vod',
         name: '番号资源',
     },
-
+    crnxxzy: {
+        api: 'https://naixxzy.com/api.php/provide/vod',
+        name: '奶香香资源',
+    },
+    crddzy: {
+        api: 'https://api.ddapi.cc/api.php/provide/vod',
+        name: '滴滴资源',
+    },
+    crytzy: {
+        api: 'https://apiyutu.com/api.php/provide/vod',
+        name: '玉兔资源',
+    },
+    craizy: {
+        api: 'https://lbapiby.com/api.php/provide/vod',
+        name: 'AI资源',
+    },
+    cr115zy: {
+        api: 'https://155api.com/api.php/provide/vod',
+        name: '155资源',
+    },
+    crlbzy: {
+        api: 'https://lbapi9.com/api.php/provide/vod',
+        name: '乐播资源',
+    },
 };
 
 // 调用全局方法合并
