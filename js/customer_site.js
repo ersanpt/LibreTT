@@ -95,8 +95,8 @@ const CUSTOMER_SITES = {
         api: 'https://apilsbzy1.com/api.php/provide/vod',
         name: '老色逼资源',
     },
-        fhzy: {
-        api: 'http://fhapi9.com/api.php/provide/vod',
+    fhzy: {
+        api: 'https://fhapi9.com/api.php/provide/vod',
         name: '番号资源',
     },
     nxxzy: {
@@ -112,7 +112,7 @@ const CUSTOMER_SITES = {
         name: '玉兔资源',
     },
     aizy: {
-        api: 'http://lbapiby.com/api.php/provide/vod/at/json',
+        api: 'https://lbapiby.com/api.php/provide/vod/at/json',
         name: 'AI资源',
     },
     115zy: {
