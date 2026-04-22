@@ -3,7 +3,7 @@ const CUSTOMER_SITES = {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
     },
-        dyttzy: {
+    dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
     },
@@ -111,17 +111,17 @@ const CUSTOMER_SITES = {
         api: 'https://apiyutu.com/api.php/provide/vod',
         name: '玉兔资源',
     },
-    AIzy: {
+    aizy: {
         api: 'http://lbapiby.com/api.php/provide/vod/at/json',
         name: 'AI资源',
     },
     115zy: {
         api: 'https://155api.com/api.php/provide/vod',
-        name: '155(直连)',
+        name: '155直连',
     },
     lbzy: {
         api: 'https://lbapi9.com/api.php/provide/vod',
-        name: '乐播(直连)',
+        name: '乐播直连',
     }
 };
 
