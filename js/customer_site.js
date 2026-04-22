@@ -87,10 +87,6 @@ const CUSTOMER_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod/',
-        name: '量子资源站'
-    },
     crlsbzy: {
         api: 'https://apilsbzy1.com/api.php/provide/vod',
         name: '老色逼资源',
